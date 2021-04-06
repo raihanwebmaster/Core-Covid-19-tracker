@@ -1,4 +1,4 @@
-# Core-Covied-19-tracker
+# Core-Covied-19-tracker 🌍 🚑
 #### This is a site of covid-19 tracker. where user can find out covid condition whole over the world !!!
 
 ## Features:
@@ -9,25 +9,20 @@
     * Most infected country is in the first position.
 
 ## Special-features: 
-#### + For user convenience we added some special features. 
-        * we used 'LINE CHART' to show the covid information for more effectively
-        * We also used 'GOOGLE MAP' to show the country location. MAP has also some special features.
-           + If user select infected card it will show all infected country.
-           + Also user can get specific country information as well.
+#### * For user convenience we added some special features. 
+      * We used 'LINE CHART' to show the covid information for more effectively
+      * We also used 'GOOGLE MAP' to show the country location. MAP has also some special features.
+          + If user select infected card it will show all infected country.
+          + Also user can get specific country information as well.
 
 ## Technologry: 
 + Reactjs
-+ Style Components
-+ Material-UI
-+ JWT Token
-+ Session Storage
-+ Firebase ( Hosting )
-+ Google-auth (Google API)
++ GOOGLE MAP
++ Chart.js
++ Rest API
 
-##  Hit below & post your own memories
-### [Live site](https://memories-e2c87.web.app/)
-
-[Back-end-Repo](https://github.com/raihanwebmaster/MERN-Project---server)
+##  Click below & don't forget to see your own country condition.
+### [Live site](https://covid-19-tracker-it.netlify.app/)
 
 ## Take a look :)
-![alt_text](images/download.png)
+![alt_text](src/images/download.png)
